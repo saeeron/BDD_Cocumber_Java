@@ -1,0 +1,6 @@
+StepDefinitions\GoogleMainPage.class
+pagefactory\GoogleMain_PF.class
+StepDefinitions\Login.class
+StepDefinitions\StepDefinitionsWithHooks\SomeSteps.class
+StepDefinitions\GoogleSearchSteps.class
+StepDefinitions\TestRunnerWithHooks.class
